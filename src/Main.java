@@ -86,8 +86,5 @@ public class Main {
             arr[2]++;
             System.out.println("теперь чётное ==> " + arr[2]);
         }
-        System.out.print(" " + arr[0]);
-        System.out.print(", " + arr[1]);
-        System.out.print(", " + arr[2]);
     }
 }
